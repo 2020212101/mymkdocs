@@ -1,0 +1,27 @@
+site_name:  XIAO澄 的主页
+
+pages: 
+
+-Home: 'index.md'
+
+-About: 'About myself.md'
+
+theme: 
+  name:  'material'
+  palette: 
+
+    - scheme: default
+      primary: 'teal'
+      accent: 'teal'
+      toggle:
+       icon: material/toggle-switch-off-outline
+       name: Switch to dark mode
+       primary: 'teal'
+    
+    - scheme: slate 
+      primary: 'teal'
+      accent: 'teal'
+      toggle:
+       icon: material/toggle-switch
+       name: Switch to light mode
+
